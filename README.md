@@ -1,6 +1,6 @@
 # bali_travel_apps
 
-A new Flutter project.
+A new Flutter project. Design from https://pixel.buildwithangga.com/
 
 ## Getting Started
 
